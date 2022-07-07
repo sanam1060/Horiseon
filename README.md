@@ -6,7 +6,7 @@ Horiseon offers social media marketing consultation, search optimization (SEO), 
 * search engines
 
 ## Screenshot of the project
-![screenshot of Horiseon's homepage](./Develop/assets/images/horiseon-homepage.png)
+![screenshot of Horiseon's homepage](./assets/images/horiseon-homepage.png)
 
 ## Built With
 * HTML
