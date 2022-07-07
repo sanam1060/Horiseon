@@ -16,4 +16,4 @@ Horiseon offers social media marketing consultation, search optimization (SEO), 
 https://sanam1060.github.io/Horiseon/
 
 ## Contribution
-Made with ❤️️ by Sanam on July 7, 20200
+Made with ❤️️ by Sanam on July 7, 2022
