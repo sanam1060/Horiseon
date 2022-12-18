@@ -1,9 +1,10 @@
 # Horiseon
 
-## Purpose
-Horiseon offers social media marketing consultation, search optimization (SEO), and online reputation management. Purpose of this project is to refactor the existing site to make it more accessible for
+Horiseon offers social media marketing consultation, search optimization (SEO), and online reputation management. The purpose of this project is to refactor the existing site to make it more accessible for
 * people that use assistive technologies
 * search engines
+
+Please find the starter code of this project here: https://github.com/coding-boot-camp/urban-octo-telegram
 
 ## Screenshot of the project
 ![screenshot of Horiseon's homepage](./assets/images/horiseon-homepage.png)
